@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Katrapalli</h1>
 <h3 align="center">A passionate Computer Science Student from KMIT</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth-kat" alt="siddharth-kat" /></a> </p>
 
 - 🔭 I’m currently working on [Finishing School](https://github.com/Sohith-reddy/Finishing-School.git)
 
